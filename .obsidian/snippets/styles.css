@@ -1,0 +1,33 @@
+
+
+.dvutil {
+    padding-left: 1rem;
+    margin-left: 1rem;
+    font-size: 11px!important;
+    border-left: 1px solid #aaa;
+    background-color: #fafafa;
+    margin-bottom: 2rem;
+}
+
+.dvutil * {
+    line-height: 13px!important;
+    margin-block-end: -13px!important;
+
+}
+
+.dvutil li:nth-child(1) {
+    margin-block-start: -13px!important;
+}
+
+.dvutilx-SLETT * {
+    min-height: 0!important;
+    line-height: 12px!important;
+    /* background-color: rgba(255, 0, 0, 0.1); */
+    padding-top: -12px!important;
+    padding-bottom: -12px!important;
+    margin-block-start: 0px!important;
+    margin-block-end: -12px!important;
+    margin-bottom: 0px;
+    margin: 0;
+
+}

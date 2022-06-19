@@ -1,0 +1,12 @@
+sider/**/*
+vedlegg/**/*
+.trash
+/*.json
+workspace*
+sider/*
+vedlegg/*
+.obsidian/themes/*
+.obsidian/plugins/*
+.obsidian/*.json
+.DS_Store
+/*.md
