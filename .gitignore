@@ -5,6 +5,8 @@ vedlegg/**/*
 workspace*
 sider/*
 vedlegg/*
+journal/*
+attachements/*
 .obsidian/themes/*
 .obsidian/plugins/*
 .obsidian/*.json
